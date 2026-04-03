@@ -3,7 +3,7 @@
 
 ---
 
-### AIM  
+### AIM :
 To write a Python program to create a `Counter` class that can increment the value of a counter.
 
 ---
